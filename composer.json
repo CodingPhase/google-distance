@@ -1,6 +1,7 @@
 {
     "name": "codingphase/google-distance",
     "type": "library",
+    "license": "MIT",
     "description": "Google distance matrix API - Estimate travel time and distance for multiple destinations.",
     "keywords": [
         "google distance matrix",
@@ -12,14 +13,13 @@
         "name": "Hesto",
         "email": "losiakp@gmail.com"
     }],
-    "version": "v0.0.1",
     "require": {
         "php": ">=7.0",
         "guzzlehttp/guzzle": "^6.2"
     },
     "autoload": {
         "psr-4": {
-            "CodingPhase\\GoogleDistanceMatrix\\": "src/"
+            "CodingPhase\\GoogleDistance\\": "src/"
         }
     }
 }
