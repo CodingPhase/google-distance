@@ -1,6 +1,6 @@
 <?php
 
-namespace FinalBytes\GoogleDistanceMatrix\Response;
+namespace CodingPhase\GoogleDistance\Response;
 
 class Row
 {

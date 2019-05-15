@@ -1,8 +1,8 @@
 <?php
 
-namespace FinalBytes\GoogleDistanceMatrix\Response;
+namespace CodingPhase\GoogleDistance\Response;
 
-use FinalBytes\GoogleDistanceMatrix\Exception\Exception;
+use CodingPhase\GoogleDistance\Exception\Exception;
 
 class Element
 {

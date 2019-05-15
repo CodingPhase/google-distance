@@ -1,8 +1,8 @@
 <?php
 
-namespace FinalBytes\GoogleDistanceMatrix;
+namespace CodingPhase\GoogleDistance;
 
-use FinalBytes\GoogleDistanceMatrix\Response\GoogleDistanceMatrixResponse;
+use CodingPhase\GoogleDistance\Response\GoogleDistanceMatrixResponse;
 use GuzzleHttp\Client;
 
 class GoogleDistanceMatrix
